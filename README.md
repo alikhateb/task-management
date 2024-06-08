@@ -1,8 +1,10 @@
-# NewAngularApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
+# TaskManagement
 
 This demo project contains signals, computed signal, input/output signal, standalone feature, service and dependency injection.
+
+## Run App
+
+https://alikhateb.github.io/task-management/
 
 ## Development server
 
